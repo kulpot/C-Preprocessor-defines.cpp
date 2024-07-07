@@ -12,5 +12,5 @@ using std::endl;
 
 void main()
 {
-
+	cout << PI << endl;
 }
