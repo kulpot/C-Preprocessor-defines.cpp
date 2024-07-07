@@ -8,6 +8,8 @@ using std::endl;
 //2nd Step:Compiler		
 //3rd Step:Linker
 
+#define PI 3.141592			// another sample of Preprocessor
+
 void main()
 {
 
